@@ -4,12 +4,12 @@ public class example8 {
 
     public static void main(String[] args) {
         int Size = 10;
-        char chars[] = new char[Size];                              // Создание массива с размером 10
+        char chars[] = new char[Size];
         char i = 'A';
-        char ExChars [] = {'A', 'E', 'I', 'O', 'U', 'Y'};           //создание массива гласных
-        for (int x = 0; x < chars.length; i++)                      //заполнение массива
+        char ExChars [] = {'A', 'E', 'I', 'O', 'U', 'Y'};
+        for (int x = 0; x < chars.length; i++)
         {
-            for (int y = 0; y < ExChars.length; y++)                //проверка на соответсвие массива гласных
+            for (int y = 0; y < ExChars.length; y++)
             {
                 if (i == ExChars[y]) {
                     i++;

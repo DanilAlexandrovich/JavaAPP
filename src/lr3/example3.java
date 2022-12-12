@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class example3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Введите сколько чисел суммировать");
+        System.out.println("Введите сколько чисел суммировать: ");
         int x = in.nextInt();
         int[] fibb = new int [x];
         int o = 2;
