@@ -2,10 +2,6 @@ package timus2;
 
 import java.util.Scanner;
 
-/*
- * http://acm.timus.ru/problem.aspx?space=1&num=1021
- */
-
 public class task1021 {
 
     public static void main(String[] args) {

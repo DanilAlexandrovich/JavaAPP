@@ -8,10 +8,6 @@ import java.util.Scanner;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-/*
- * http://acm.timus.ru/problem.aspx?space=1&num=1024
- */
-
 public class task1126 {
 
     public static void main(String[] args) {
